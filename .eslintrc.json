@@ -8,6 +8,8 @@
 	"plugins": ["@typescript-eslint"],
 	"root": true,
 	"rules": {
-		"@typescript-eslint/no-explicit-any":  "off"
+		"@typescript-eslint/no-explicit-any":  "off",
+		"eslint-disable-next-line": "off",
+		"no-extra-semi": "off"
 	}
 }
