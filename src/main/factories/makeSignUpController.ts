@@ -1,7 +1,7 @@
-import { SignUpController } from '../../presentation/controller/payments'
+import { PaymentController } from '../../presentation/controller/payments'
 import { Controller } from '../../presentation/protocols/controller'
 
 export const makeSignUpController = (): Controller => {
-  const controller = new SignUpController()
+  const controller = new PaymentController()
   return controller
 }
