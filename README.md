@@ -33,7 +33,9 @@ Follow the steps below:
 
 ```bash
 # Install the dependencies
+$ cd Integracao-de-pagamentos-SmartCheckout
 $ npm install
+```
 
 ## _My Contacts_ :mailbox_with_mail:
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jardeylson-jacinto-769769156)
