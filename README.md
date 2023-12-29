@@ -1,4 +1,4 @@
-# Integração de pagamentos com SmartCheckout do Mercado Pago
+# Payment integration with Mercado Pago SmartCheckout
 <img src = "https://github.com/jardeylsonJacinto/Integracao-de-pagamentos-SmartCheckout/assets/93053356/57517657-9c5a-43a9-ba53-be8d3577515b">
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/jardeylsonJacinto/NLW-setup)
